@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 export const Container = styled.section`
   height: 80px;
@@ -7,5 +7,5 @@ export const Container = styled.section`
   color: #FFF;
 
   display: flex;
-  align-items: center; 
-`;
+  align-items: center;
+`
